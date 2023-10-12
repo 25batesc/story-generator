@@ -1,0 +1,4 @@
+Instruction: Follow the journey of an old man in a dystopian world, facing loss and learning resilience;
+    Genre: Post-Apocalyptic Drama
+    Title: Dust of Memories
+    Description: In a barren Earth, an old mechanic embarks on an arduous journey to find his lost granddaughter, discovering along the way that humanity's resilience remains, even when all else is lost.

@@ -1,0 +1,4 @@
+Instruction: You will chronicle the story of a parallel universe;
+    Genre: Parallel Universe Science Fiction
+    Title: Quantum Mirage
+    Description: An unassuming physicist stumbles upon a parallel universe where humanity has been ravaged by their own technological advancements, prompting him to scramble to prevent the same fate in his world.

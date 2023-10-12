@@ -1,0 +1,4 @@
+Instruction: You will spin a tale of courage amid the horrors of war;
+    Genre: Historical Warfare
+    Title: Victory’s Vow
+    Description: A defiant war medic defies all odds, risking her life to keep a secret hospital running during a brutal siege. She discovers strength and love in unlikely places.

@@ -1,0 +1,4 @@
+Instruction: Craft a story about a hidden world, fearsome creatures and unspoken prophecies
+    Genre: Dark Fantasy
+    Title: Beneath the Black Veil
+    Description: A young outcast inherits an ancient magical pendant, unveiling a shadowy realm filled with monstrous beings and prophecies predicting her as the realm's destroyer or saviour.

@@ -1,0 +1,4 @@
+Instruction: Weave a tale of exploration and survival in an unforgiving environment
+    Genre: Post-apocalyptic Adventure
+    Title: Ashen Dawn
+    Description: In a world ravaged by nuclear fallout, a mute scavenger stumbles across a functioning AI and together they embark on a journey to find humanity's last sanctuary.

@@ -1,0 +1,4 @@
+Instruction: Imagine a time where time travel doesn't exist, yet
+    Genre: Sci-Fi Drama
+    Title: Anachronist
+    Description: A university professor from a distant future accidentally sends himself back in time, only to find himself trapped in the present with a mission to prevent a dire future.

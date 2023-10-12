@@ -1,0 +1,9160 @@
+Step 1:
+    S
+    t
+    e
+    p
+     
+    1
+    :
+    
+
+    #
+    #
+    s
+    c
+    e
+    n
+    e
+    _
+    1
+    :
+     
+    T
+    h
+    e
+     
+    i
+    n
+    v
+    e
+    s
+    t
+    i
+    g
+    a
+    t
+    o
+    r
+     
+    s
+    i
+    t
+    s
+     
+    i
+    n
+     
+    h
+    i
+    s
+     
+    c
+    l
+    u
+    t
+    t
+    e
+    r
+    e
+    d
+     
+    o
+    f
+    f
+    i
+    c
+    e
+    ,
+     
+    s
+    u
+    r
+    r
+    o
+    u
+    n
+    d
+    e
+    d
+     
+    b
+    y
+     
+    s
+    h
+    e
+    l
+    v
+    e
+    s
+     
+    o
+    f
+     
+    d
+    u
+    s
+    t
+    y
+     
+    c
+    a
+    s
+    e
+     
+    f
+    i
+    l
+    e
+    s
+     
+    a
+    n
+    d
+     
+    c
+    r
+    y
+    p
+    t
+    i
+    c
+     
+    p
+    u
+    z
+    z
+    l
+    e
+    s
+    .
+     
+    H
+    e
+     
+    a
+    b
+    s
+    e
+    n
+    t
+    m
+    i
+    n
+    d
+    e
+    d
+    l
+    y
+     
+    t
+    a
+    p
+    s
+     
+    h
+    i
+    s
+     
+    p
+    e
+    n
+     
+    o
+    n
+     
+    t
+    h
+    e
+     
+    d
+    e
+    s
+    k
+    ,
+     
+    l
+    o
+    s
+    t
+     
+    i
+    n
+     
+    t
+    h
+    o
+    u
+    g
+    h
+    t
+    .
+     
+    T
+    h
+    e
+     
+    f
+    l
+    i
+    c
+    k
+    e
+    r
+    i
+    n
+    g
+     
+    l
+    a
+    m
+    p
+     
+    c
+    a
+    s
+    t
+    s
+     
+    a
+     
+    s
+    o
+    f
+    t
+     
+    g
+    l
+    o
+    w
+    ,
+     
+    i
+    l
+    l
+    u
+    m
+    i
+    n
+    a
+    t
+    i
+    n
+    g
+     
+    t
+    h
+    e
+     
+    c
+    o
+    u
+    n
+    t
+    l
+    e
+    s
+    s
+     
+    m
+    y
+    s
+    t
+    e
+    r
+    y
+     
+    n
+    o
+    v
+    e
+    l
+    s
+     
+    l
+    i
+    n
+    i
+    n
+    g
+     
+    t
+    h
+    e
+     
+    w
+    a
+    l
+    l
+    s
+    .
+     
+    H
+    e
+     
+    t
+    a
+    k
+    e
+    s
+     
+    a
+     
+    d
+    e
+    e
+    p
+     
+    b
+    r
+    e
+    a
+    t
+    h
+    ,
+     
+    t
+    h
+    e
+     
+    s
+    c
+    e
+    n
+    t
+     
+    o
+    f
+     
+    o
+    l
+    d
+     
+    b
+    o
+    o
+    k
+    s
+     
+    f
+    i
+    l
+    l
+    i
+    n
+    g
+     
+    h
+    i
+    s
+     
+    n
+    o
+    s
+    t
+    r
+    i
+    l
+    s
+    ,
+     
+    a
+    n
+    d
+     
+    r
+    e
+    m
+    i
+    n
+    i
+    s
+    c
+    e
+    s
+     
+    a
+    b
+    o
+    u
+    t
+     
+    p
+    a
+    s
+    t
+     
+    t
+    r
+    i
+    u
+    m
+    p
+    h
+    s
+    ,
+     
+    f
+    e
+    e
+    l
+    i
+    n
+    g
+     
+    a
+     
+    s
+    e
+    n
+    s
+    e
+     
+    o
+    f
+     
+    c
+    o
+    m
+    f
+    o
+    r
+    t
+     
+    i
+    n
+     
+    t
+    h
+    i
+    s
+     
+    f
+    a
+    m
+    i
+    l
+    i
+    a
+    r
+     
+    s
+    p
+    a
+    c
+    e
+    .
+    #
+    #
+    
+
+    #
+    #
+    s
+    c
+    e
+    n
+    e
+    _
+    2
+    :
+     
+    A
+    s
+     
+    a
+     
+    g
+    e
+    n
+    t
+    l
+    e
+     
+    r
+    a
+    i
+    n
+     
+    p
+    a
+    t
+    t
+    e
+    r
+    s
+     
+    a
+    g
+    a
+    i
+    n
+    s
+    t
+     
+    t
+    h
+    e
+     
+    w
+    i
+    n
+    d
+    o
+    w
+    p
+    a
+    n
+    e
+    ,
+     
+    t
+    h
+    e
+     
+    i
+    n
+    v
+    e
+    s
+    t
+    i
+    g
+    a
+    t
+    o
+    r
+     
+    s
+    i
+    t
+    s
+     
+    i
+    n
+     
+    h
+    i
+    s
+     
+    w
+    o
+    r
+    n
+     
+    l
+    e
+    a
+    t
+    h
+    e
+    r
+     
+    a
+    r
+    m
+    c
+    h
+    a
+    i
+    r
+    ,
+     
+    e
+    n
+    g
+    r
+    o
+    s
+    s
+    e
+    d
+     
+    i
+    n
+     
+    a
+     
+    l
+    e
+    t
+    t
+    e
+    r
+     
+    f
+    r
+    o
+    m
+     
+    t
+    h
+    e
+     
+    l
+    a
+    t
+    e
+     
+    g
+    e
+    n
+    i
+    u
+    s
+    .
+     
+    H
+    i
+    s
+     
+    f
+    i
+    n
+    g
+    e
+    r
+    s
+     
+    t
+    r
+    a
+    c
+    e
+     
+    t
+    h
+    e
+     
+    c
+    r
+    e
+    a
+    s
+    e
+    s
+     
+    i
+    n
+     
+    t
+    h
+    e
+     
+    p
+    a
+    p
+    e
+    r
+    ,
+     
+    h
+    i
+    s
+     
+    e
+    y
+    e
+    s
+     
+    s
+    c
+    a
+    n
+    n
+    i
+    n
+    g
+     
+    e
+    a
+    c
+    h
+     
+    m
+    e
+    t
+    i
+    c
+    u
+    l
+    o
+    u
+    s
+    l
+    y
+     
+    c
+    r
+    a
+    f
+    t
+    e
+    d
+     
+    w
+    o
+    r
+    d
+    .
+     
+    T
+    h
+    e
+     
+    s
+    o
+    u
+    n
+    d
+     
+    o
+    f
+     
+    d
+    i
+    s
+    t
+    a
+    n
+    t
+     
+    t
+    h
+    u
+    n
+    d
+    e
+    r
+     
+    a
+    d
+    d
+    s
+     
+    a
+    n
+     
+    e
+    l
+    e
+    c
+    t
+    r
+    i
+    c
+     
+    a
+    i
+    r
+     
+    o
+    f
+     
+    a
+    n
+    t
+    i
+    c
+    i
+    p
+    a
+    t
+    i
+    o
+    n
+     
+    t
+    o
+     
+    t
+    h
+    e
+     
+    r
+    o
+    o
+    m
+    .
+     
+    H
+    i
+    s
+     
+    h
+    e
+    a
+    r
+    t
+     
+    q
+    u
+    i
+    c
+    k
+    e
+    n
+    s
+     
+    w
+    i
+    t
+    h
+     
+    e
+    x
+    c
+    i
+    t
+    e
+    m
+    e
+    n
+    t
+    ,
+     
+    r
+    e
+    a
+    l
+    i
+    z
+    i
+    n
+    g
+     
+    t
+    h
+    a
+    t
+     
+    t
+    h
+    e
+    s
+    e
+     
+    l
+    e
+    t
+    t
+    e
+    r
+    s
+     
+    h
+    o
+    l
+    d
+     
+    t
+    h
+    e
+     
+    k
+    e
+    y
+     
+    t
+    o
+     
+    u
+    n
+    r
+    a
+    v
+    e
+    l
+    i
+    n
+    g
+     
+    u
+    n
+    s
+    o
+    l
+    v
+    e
+    d
+     
+    m
+    y
+    s
+    t
+    e
+    r
+    i
+    e
+    s
+    .
+     
+    A
+     
+    f
+    l
+    i
+    c
+    k
+    e
+    r
+     
+    o
+    f
+     
+    s
+    o
+    m
+    e
+    t
+    h
+    i
+    n
+    g
+     
+    a
+    k
+    i
+    n
+     
+    t
+    o
+     
+    o
+    b
+    s
+    e
+    s
+    s
+    i
+    o
+    n
+     
+    d
+    a
+    n
+    c
+    e
+    s
+     
+    i
+    n
+     
+    h
+    i
+    s
+     
+    e
+    y
+    e
+    s
+     
+    a
+    s
+     
+    h
+    e
+     
+    d
+    i
+    v
+    e
+    s
+     
+    d
+    e
+    e
+    p
+    e
+    r
+     
+    i
+    n
+    t
+    o
+     
+    t
+    h
+    e
+     
+    e
+    n
+    i
+    g
+    m
+    a
+     
+    l
+    a
+    i
+    d
+     
+    b
+    e
+    f
+    o
+    r
+    e
+     
+    h
+    i
+    m
+    .
+    #
+    #
+
+Step 2:
+    S
+    t
+    e
+    p
+     
+    2
+    :
+    
+
+    #
+    #
+    s
+    c
+    e
+    n
+    e
+    _
+    1
+    :
+     
+    I
+    n
+     
+    h
+    i
+    s
+     
+    c
+    l
+    u
+    t
+    t
+    e
+    r
+    e
+    d
+     
+    o
+    f
+    f
+    i
+    c
+    e
+    ,
+     
+    t
+    h
+    e
+     
+    i
+    n
+    v
+    e
+    s
+    t
+    i
+    g
+    a
+    t
+    o
+    r
+     
+    t
+    a
+    p
+    s
+     
+    h
+    i
+    s
+     
+    p
+    e
+    n
+    ,
+     
+    l
+    o
+    s
+    t
+     
+    i
+    n
+     
+    t
+    h
+    o
+    u
+    g
+    h
+    t
+    .
+     
+    T
+    h
+    e
+     
+    s
+    c
+    e
+    n
+    t
+     
+    o
+    f
+     
+    o
+    l
+    d
+     
+    b
+    o
+    o
+    k
+    s
+     
+    f
+    i
+    l
+    l
+    s
+     
+    t
+    h
+    e
+     
+    a
+    i
+    r
+     
+    a
+    s
+     
+    h
+    e
+     
+    r
+    e
+    m
+    i
+    n
+    i
+    s
+    c
+    e
+    s
+     
+    a
+    b
+    o
+    u
+    t
+     
+    p
+    a
+    s
+    t
+     
+    t
+    r
+    i
+    u
+    m
+    p
+    h
+    s
+     
+    a
+    n
+    d
+     
+    f
+    e
+    e
+    l
+    s
+     
+    a
+     
+    s
+    e
+    n
+    s
+    e
+     
+    o
+    f
+     
+    c
+    o
+    m
+    f
+    o
+    r
+    t
+    .
+    #
+    #
+    
+
+    #
+    #
+    s
+    c
+    e
+    n
+    e
+    _
+    2
+    :
+     
+    R
+    a
+    i
+    n
+     
+    p
+    a
+    t
+    t
+    e
+    r
+    s
+     
+    a
+    g
+    a
+    i
+    n
+    s
+    t
+     
+    t
+    h
+    e
+     
+    w
+    i
+    n
+    d
+    o
+    w
+     
+    a
+    s
+     
+    t
+    h
+    e
+     
+    i
+    n
+    v
+    e
+    s
+    t
+    i
+    g
+    a
+    t
+    o
+    r
+     
+    s
+    i
+    t
+    s
+     
+    i
+    n
+     
+    h
+    i
+    s
+     
+    a
+    r
+    m
+    c
+    h
+    a
+    i
+    r
+    ,
+     
+    e
+    n
+    g
+    r
+    o
+    s
+    s
+    e
+    d
+     
+    i
+    n
+     
+    a
+     
+    l
+    e
+    t
+    t
+    e
+    r
+    .
+     
+    T
+    h
+    u
+    n
+    d
+    e
+    r
+     
+    a
+    d
+    d
+    s
+     
+    a
+    n
+    t
+    i
+    c
+    i
+    p
+    a
+    t
+    i
+    o
+    n
+     
+    t
+    o
+     
+    t
+    h
+    e
+     
+    r
+    o
+    o
+    m
+    .
+     
+    H
+    i
+    s
+     
+    h
+    e
+    a
+    r
+    t
+     
+    q
+    u
+    i
+    c
+    k
+    e
+    n
+    s
+     
+    w
+    i
+    t
+    h
+     
+    e
+    x
+    c
+    i
+    t
+    e
+    m
+    e
+    n
+    t
+    ,
+     
+    r
+    e
+    a
+    l
+    i
+    z
+    i
+    n
+    g
+     
+    t
+    h
+    e
+    s
+    e
+     
+    l
+    e
+    t
+    t
+    e
+    r
+    s
+     
+    h
+    o
+    l
+    d
+     
+    t
+    h
+    e
+     
+    k
+    e
+    y
+     
+    t
+    o
+     
+    u
+    n
+    r
+    a
+    v
+    e
+    l
+    i
+    n
+    g
+     
+    m
+    y
+    s
+    t
+    e
+    r
+    i
+    e
+    s
+    .
+     
+    A
+     
+    f
+    l
+    i
+    c
+    k
+    e
+    r
+     
+    o
+    f
+     
+    o
+    b
+    s
+    e
+    s
+    s
+    i
+    o
+    n
+     
+    d
+    a
+    n
+    c
+    e
+    s
+     
+    i
+    n
+     
+    h
+    i
+    s
+     
+    e
+    y
+    e
+    s
+     
+    a
+    s
+     
+    h
+    e
+     
+    d
+    i
+    v
+    e
+    s
+     
+    d
+    e
+    e
+    p
+    e
+    r
+     
+    i
+    n
+    t
+    o
+     
+    t
+    h
+    e
+     
+    e
+    n
+    i
+    g
+    m
+    a
+    .
+    #
+    #
+
+Step 3:
+    S
+    t
+    e
+    p
+     
+    3
+    :
+    
+
+    #
+    #
+    s
+    c
+    e
+    n
+    e
+    _
+    1
+    :
+     
+    F
+    r
+    u
+    s
+    t
+    r
+    a
+    t
+    e
+    d
+     
+    b
+    y
+     
+    d
+    e
+    a
+    d
+     
+    e
+    n
+    d
+    s
+    ,
+     
+    t
+    h
+    e
+     
+    i
+    n
+    v
+    e
+    s
+    t
+    i
+    g
+    a
+    t
+    o
+    r
+     
+    d
+    e
+    c
+    i
+    d
+    e
+    s
+     
+    t
+    o
+     
+    v
+    e
+    n
+    t
+    u
+    r
+    e
+     
+    o
+    u
+    t
+    s
+    i
+    d
+    e
+     
+    h
+    i
+    s
+     
+    c
+    r
+    a
+    m
+    p
+    e
+    d
+     
+    o
+    f
+    f
+    i
+    c
+    e
+    .
+     
+    H
+    e
+     
+    s
+    t
+    e
+    p
+    s
+     
+    i
+    n
+    t
+    o
+     
+    a
+     
+    d
+    i
+    m
+    l
+    y
+     
+    l
+    i
+    t
+     
+    a
+    l
+    l
+    e
+    y
+    ,
+     
+    t
+    h
+    e
+     
+    o
+    d
+    o
+    r
+     
+    o
+    f
+     
+    s
+    t
+    a
+    l
+    e
+     
+    g
+    a
+    r
+    b
+    a
+    g
+    e
+     
+    f
+    i
+    l
+    l
+    i
+    n
+    g
+     
+    h
+    i
+    s
+     
+    n
+    o
+    s
+    t
+    r
+    i
+    l
+    s
+    .
+     
+    T
+    h
+    e
+     
+    s
+    o
+    u
+    n
+    d
+     
+    o
+    f
+     
+    d
+    i
+    s
+    t
+    a
+    n
+    t
+     
+    t
+    r
+    a
+    f
+    f
+    i
+    c
+     
+    a
+    n
+    d
+     
+    e
+    c
+    h
+    o
+    i
+    n
+    g
+     
+    f
+    o
+    o
+    t
+    s
+    t
+    e
+    p
+    s
+     
+    r
+    e
+    v
+    e
+    r
+    b
+    e
+    r
+    a
+    t
+    e
+     
+    o
+    f
+    f
+     
+    t
+    h
+    e
+     
+    g
+    r
+    a
+    f
+    f
+    i
+    t
+    i
+    -
+    c
+    o
+    v
+    e
+    r
+    e
+    d
+     
+    w
+    a
+    l
+    l
+    s
+    .
+     
+    H
+    i
+    s
+     
+    h
+    e
+    a
+    r
+    t
+     
+    p
+    o
+    u
+    n
+    d
+    s
+    ,
+     
+    b
+    o
+    t
+    h
+     
+    f
+    r
+    o
+    m
+     
+    t
+    h
+    e
+     
+    u
+    n
+    k
+    n
+    o
+    w
+    n
+     
+    a
+    n
+    d
+     
+    t
+    h
+    e
+     
+    t
+    h
+    r
+    i
+    l
+    l
+     
+    o
+    f
+     
+    p
+    u
+    r
+    s
+    u
+    i
+    n
+    g
+     
+    t
+    h
+    e
+     
+    m
+    y
+    s
+    t
+    e
+    r
+    i
+    o
+    u
+    s
+     
+    g
+    e
+    n
+    i
+    u
+    s
+    '
+    s
+     
+    s
+    e
+    c
+    r
+    e
+    t
+    s
+    .
+     
+    W
+    i
+    t
+    h
+     
+    d
+    e
+    t
+    e
+    r
+    m
+    i
+    n
+    a
+    t
+    i
+    o
+    n
+     
+    i
+    n
+     
+    h
+    i
+    s
+     
+    e
+    y
+    e
+    s
+    ,
+     
+    h
+    e
+     
+    s
+    t
+    r
+    i
+    d
+    e
+    s
+     
+    f
+    o
+    r
+    w
+    a
+    r
+    d
+    ,
+     
+    r
+    e
+    a
+    d
+    y
+     
+    t
+    o
+     
+    e
+    m
+    b
+    r
+    a
+    c
+    e
+     
+    t
+    h
+    e
+     
+    u
+    n
+    f
+    a
+    m
+    i
+    l
+    i
+    a
+    r
+    i
+    t
+    y
+     
+    t
+    h
+    a
+    t
+     
+    a
+    w
+    a
+    i
+    t
+    s
+    .
+    #
+    #
+    
+
+    #
+    #
+    s
+    c
+    e
+    n
+    e
+    _
+    2
+    :
+     
+    T
+    h
+    e
+     
+    i
+    n
+    v
+    e
+    s
+    t
+    i
+    g
+    a
+    t
+    o
+    r
+     
+    f
+    i
+    n
+    d
+    s
+     
+    h
+    i
+    m
+    s
+    e
+    l
+    f
+     
+    i
+    n
+     
+    a
+    n
+     
+    e
+    e
+    r
+    i
+    e
+    ,
+     
+    a
+    b
+    a
+    n
+    d
+    o
+    n
+    e
+    d
+     
+    w
+    a
+    r
+    e
+    h
+    o
+    u
+    s
+    e
+    .
+     
+    M
+    o
+    o
+    n
+    l
+    i
+    g
+    h
+    t
+     
+    s
+    t
+    r
+    e
+    a
+    m
+    s
+     
+    t
+    h
+    r
+    o
+    u
+    g
+    h
+     
+    b
+    r
+    o
+    k
+    e
+    n
+     
+    w
+    i
+    n
+    d
+    o
+    w
+    s
+    ,
+     
+    c
+    a
+    s
+    t
+    i
+    n
+    g
+     
+    e
+    e
+    r
+    i
+    e
+     
+    s
+    h
+    a
+    d
+    o
+    w
+    s
+     
+    o
+    n
+     
+    t
+    h
+    e
+     
+    d
+    e
+    c
+    a
+    y
+    i
+    n
+    g
+     
+    f
+    l
+    o
+    o
+    r
+    .
+     
+    T
+    h
+    e
+     
+    c
+    r
+    e
+    a
+    k
+    i
+    n
+    g
+     
+    o
+    f
+     
+    o
+    l
+    d
+     
+    w
+    o
+    o
+    d
+     
+    a
+    n
+    d
+     
+    t
+    h
+    e
+     
+    s
+    c
+    u
+    r
+    r
+    y
+    i
+    n
+    g
+     
+    o
+    f
+     
+    u
+    n
+    s
+    e
+    e
+    n
+     
+    c
+    r
+    e
+    a
+    t
+    u
+    r
+    e
+    s
+     
+    e
+    c
+    h
+    o
+     
+    t
+    h
+    r
+    o
+    u
+    g
+    h
+     
+    t
+    h
+    e
+     
+    s
+    i
+    l
+    e
+    n
+    c
+    e
+    .
+     
+    A
+     
+    c
+    h
+    i
+    l
+    l
+     
+    r
+    u
+    n
+    s
+     
+    d
+    o
+    w
+    n
+     
+    h
+    i
+    s
+     
+    s
+    p
+    i
+    n
+    e
+    ,
+     
+    b
+    u
+    t
+     
+    h
+    e
+     
+    p
+    r
+    e
+    s
+    s
+    e
+    s
+     
+    o
+    n
+    ,
+     
+    d
+    r
+    i
+    v
+    e
+    n
+     
+    b
+    y
+     
+    t
+    h
+    e
+     
+    n
+    e
+    e
+    d
+     
+    t
+    o
+     
+    u
+    n
+    c
+    o
+    v
+    e
+    r
+     
+    t
+    h
+    e
+     
+    t
+    r
+    u
+    t
+    h
+    .
+     
+    E
+    v
+    e
+    r
+    y
+     
+    s
+    t
+    e
+    p
+     
+    h
+    e
+     
+    t
+    a
+    k
+    e
+    s
+     
+    r
+    e
+    v
+    e
+    a
+    l
+    s
+     
+    n
+    e
+    w
+     
+    c
+    l
+    u
+    e
+    s
+    ,
+     
+    l
+    e
+    a
+    d
+    i
+    n
+    g
+     
+    h
+    i
+    m
+     
+    d
+    e
+    e
+    p
+    e
+    r
+     
+    i
+    n
+    t
+    o
+     
+    t
+    h
+    e
+     
+    t
+    a
+    n
+    g
+    l
+    e
+    d
+     
+    w
+    e
+    b
+     
+    o
+    f
+     
+    e
+    n
+    i
+    g
+    m
+    a
+     
+    a
+    n
+    d
+     
+    d
+    a
+    n
+    g
+    e
+    r
+    .
+    #
+    #
+
+Step 4:
+    S
+    t
+    e
+    p
+     
+    4
+    :
+    
+
+    #
+    #
+    s
+    c
+    e
+    n
+    e
+    _
+    1
+    :
+     
+    I
+    n
+     
+    t
+    h
+    e
+     
+    e
+    e
+    r
+    i
+    e
+     
+    w
+    a
+    r
+    e
+    h
+    o
+    u
+    s
+    e
+    ,
+     
+    t
+    h
+    e
+     
+    i
+    n
+    v
+    e
+    s
+    t
+    i
+    g
+    a
+    t
+    o
+    r
+     
+    s
+    p
+    o
+    t
+    s
+     
+    a
+     
+    h
+    i
+    d
+    d
+    e
+    n
+     
+    c
+    o
+    m
+    p
+    a
+    r
+    t
+    m
+    e
+    n
+    t
+     
+    t
+    u
+    c
+    k
+    e
+    d
+     
+    b
+    e
+    n
+    e
+    a
+    t
+    h
+     
+    a
+     
+    r
+    o
+    t
+    t
+    i
+    n
+    g
+     
+    f
+    l
+    o
+    o
+    r
+    b
+    o
+    a
+    r
+    d
+    .
+     
+    H
+    e
+     
+    c
+    a
+    r
+    e
+    f
+    u
+    l
+    l
+    y
+     
+    l
+    i
+    f
+    t
+    s
+     
+    i
+    t
+    ,
+     
+    r
+    e
+    v
+    e
+    a
+    l
+    i
+    n
+    g
+     
+    a
+     
+    s
+    e
+    c
+    r
+    e
+    t
+     
+    c
+    a
+    c
+    h
+    e
+     
+    o
+    f
+     
+    n
+    o
+    t
+    e
+    b
+    o
+    o
+    k
+    s
+    ,
+     
+    f
+    i
+    l
+    l
+    e
+    d
+     
+    w
+    i
+    t
+    h
+     
+    c
+    o
+    d
+    e
+    s
+     
+    a
+    n
+    d
+     
+    d
+    i
+    a
+    g
+    r
+    a
+    m
+    s
+    .
+     
+    P
+    o
+    r
+    i
+    n
+    g
+     
+    o
+    v
+    e
+    r
+     
+    t
+    h
+    e
+     
+    c
+    r
+    y
+    p
+    t
+    i
+    c
+     
+    s
+    y
+    m
+    b
+    o
+    l
+    s
+    ,
+     
+    h
+    e
+     
+    r
+    e
+    a
+    l
+    i
+    z
+    e
+    s
+     
+    h
+    e
+     
+    m
+    u
+    s
+    t
+     
+    l
+    e
+    a
+    r
+    n
+     
+    t
+    h
+    e
+     
+    l
+    a
+    n
+    g
+    u
+    a
+    g
+    e
+     
+    o
+    f
+     
+    t
+    h
+    e
+     
+    g
+    e
+    n
+    i
+    u
+    s
+    .
+     
+    H
+    i
+    s
+     
+    f
+    i
+    n
+    g
+    e
+    r
+    s
+     
+    t
+    r
+    e
+    m
+    b
+    l
+    e
+     
+    w
+    i
+    t
+    h
+     
+    a
+    n
+    t
+    i
+    c
+    i
+    p
+    a
+    t
+    i
+    o
+    n
+     
+    a
+    s
+     
+    h
+    e
+     
+    r
+    e
+    s
+    e
+    a
+    r
+    c
+    h
+    e
+    s
+     
+    a
+    n
+    c
+    i
+    e
+    n
+    t
+     
+    c
+    i
+    p
+    h
+    e
+    r
+    s
+     
+    a
+    n
+    d
+     
+    c
+    o
+    d
+    e
+    s
+    ,
+     
+    t
+    r
+    a
+    i
+    n
+    i
+    n
+    g
+     
+    h
+    i
+    s
+     
+    m
+    i
+    n
+    d
+     
+    t
+    o
+     
+    d
+    e
+    c
+    i
+    p
+    h
+    e
+    r
+     
+    t
+    h
+    e
+     
+    e
+    n
+    i
+    g
+    m
+    a
+    .
+     
+    D
+    e
+    t
+    e
+    r
+    m
+    i
+    n
+    a
+    t
+    i
+    o
+    n
+     
+    f
+    u
+    e
+    l
+    s
+     
+    h
+    i
+    s
+     
+    e
+    v
+    e
+    r
+    y
+     
+    b
+    r
+    e
+    a
+    t
+    h
+    ,
+     
+    a
+    s
+     
+    h
+    e
+     
+    a
+    d
+    a
+    p
+    t
+    s
+     
+    a
+    n
+    d
+     
+    b
+    e
+    c
+    o
+    m
+    e
+    s
+     
+    f
+    l
+    u
+    e
+    n
+    t
+     
+    i
+    n
+     
+    t
+    h
+    e
+     
+    l
+    a
+    n
+    g
+    u
+    a
+    g
+    e
+     
+    o
+    f
+     
+    s
+    e
+    c
+    r
+    e
+    t
+    s
+    .
+    #
+    #
+    
+
+    
+
+    #
+    #
+    s
+    c
+    e
+    n
+    e
+    _
+    2
+    :
+     
+    T
+    h
+    e
+     
+    i
+    n
+    v
+    e
+    s
+    t
+    i
+    g
+    a
+    t
+    o
+    r
+     
+    f
+    o
+    l
+    l
+    o
+    w
+    s
+     
+    a
+     
+    t
+    r
+    a
+    i
+    l
+     
+    o
+    f
+     
+    c
+    l
+    u
+    e
+    s
+     
+    t
+    o
+     
+    a
+     
+    c
+    l
+    a
+    n
+    d
+    e
+    s
+    t
+    i
+    n
+    e
+     
+    m
+    e
+    e
+    t
+    i
+    n
+    g
+     
+    i
+    n
+     
+    a
+     
+    b
+    u
+    s
+    t
+    l
+    i
+    n
+    g
+     
+    c
+    i
+    t
+    y
+     
+    s
+    q
+    u
+    a
+    r
+    e
+    .
+     
+    A
+    g
+    a
+    i
+    n
+    s
+    t
+     
+    a
+     
+    b
+    a
+    c
+    k
+    d
+    r
+    o
+    p
+     
+    o
+    f
+     
+    s
+    w
+    i
+    r
+    l
+    i
+    n
+    g
+     
+    m
+    a
+    r
+    k
+    e
+    t
+     
+    v
+    e
+    n
+    d
+    o
+    r
+    s
+     
+    a
+    n
+    d
+     
+    s
+    t
+    r
+    e
+    e
+    t
+     
+    p
+    e
+    r
+    f
+    o
+    r
+    m
+    e
+    r
+    s
+    ,
+     
+    h
+    e
+     
+    o
+    b
+    s
+    e
+    r
+    v
+    e
+    s
+     
+    h
+    i
+    s
+     
+    t
+    a
+    r
+    g
+    e
+    t
+     
+    f
+    r
+    o
+    m
+     
+    a
+    f
+    a
+    r
+    .
+     
+    S
+    t
+    e
+    a
+    l
+    t
+    h
+    i
+    l
+    y
+    ,
+     
+    h
+    e
+     
+    b
+    l
+    e
+    n
+    d
+    s
+     
+    i
+    n
+    t
+    o
+     
+    t
+    h
+    e
+     
+    c
+    r
+    o
+    w
+    d
+    ,
+     
+    r
+    e
+    l
+    y
+    i
+    n
+    g
+     
+    o
+    n
+     
+    h
+    i
+    s
+     
+    n
+    e
+    w
+    f
+    o
+    u
+    n
+    d
+     
+    a
+    b
+    i
+    l
+    i
+    t
+    y
+     
+    t
+    o
+     
+    r
+    e
+    a
+    d
+     
+    p
+    e
+    o
+    p
+    l
+    e
+    '
+    s
+     
+    i
+    n
+    t
+    e
+    n
+    t
+    i
+    o
+    n
+    s
+     
+    t
+    h
+    r
+    o
+    u
+    g
+    h
+     
+    s
+    u
+    b
+    t
+    l
+    e
+     
+    b
+    o
+    d
+    y
+     
+    l
+    a
+    n
+    g
+    u
+    a
+    g
+    e
+    .
+     
+    H
+    i
+    s
+     
+    s
+    e
+    n
+    s
+    e
+    s
+     
+    h
+    e
+    i
+    g
+    h
+    t
+    e
+    n
+     
+    a
+    s
+     
+    h
+    e
+     
+    a
+    n
+    a
+    l
+    y
+    z
+    e
+    s
+     
+    e
+    v
+    e
+    r
+    y
+     
+    m
+    o
+    v
+    e
+    m
+    e
+    n
+    t
+    ,
+     
+    e
+    v
+    e
+    r
+    y
+     
+    f
+    a
+    c
+    i
+    a
+    l
+     
+    e
+    x
+    p
+    r
+    e
+    s
+    s
+    i
+    o
+    n
+    .
+     
+    W
+    i
+    t
+    h
+     
+    e
+    a
+    c
+    h
+     
+    p
+    a
+    s
+    s
+    i
+    n
+    g
+     
+    m
+    o
+    m
+    e
+    n
+    t
+    ,
+     
+    h
+    i
+    s
+     
+    i
+    n
+    s
+    t
+    i
+    n
+    c
+    t
+    s
+     
+    s
+    h
+    a
+    r
+    p
+    e
+    n
+    ,
+     
+    a
+    l
+    l
+    o
+    w
+    i
+    n
+    g
+     
+    h
+    i
+    m
+     
+    t
+    o
+     
+    n
+    a
+    v
+    i
+    g
+    a
+    t
+    e
+     
+    t
+    h
+    e
+     
+    t
+    r
+    e
+    a
+    c
+    h
+    e
+    r
+    o
+    u
+    s
+     
+    w
+    o
+    r
+    l
+    d
+     
+    o
+    f
+     
+    s
+    u
+    b
+    t
+    e
+    r
+    f
+    u
+    g
+    e
+     
+    w
+    i
+    t
+    h
+     
+    c
+    o
+    n
+    f
+    i
+    d
+    e
+    n
+    c
+    e
+     
+    a
+    n
+    d
+     
+    g
+    r
+    a
+    c
+    e
+    .
+    #
+    #
+    
+
+    
+
+    #
+    #
+    s
+    c
+    e
+    n
+    e
+    _
+    3
+    :
+     
+    C
+    l
+    o
+    a
+    k
+    e
+    d
+     
+    i
+    n
+     
+    d
+    a
+    r
+    k
+    n
+    e
+    s
+    s
+    ,
+     
+    t
+    h
+    e
+     
+    i
+    n
+    v
+    e
+    s
+    t
+    i
+    g
+    a
+    t
+    o
+    r
+     
+    i
+    n
+    f
+    i
+    l
+    t
+    r
+    a
+    t
+    e
+    s
+     
+    a
+     
+    h
+    e
+    a
+    v
+    i
+    l
+    y
+     
+    g
+    u
+    a
+    r
+    d
+    e
+    d
+     
+    m
+    a
+    n
+    s
+    i
+    o
+    n
+    .
+     
+    H
+    e
+     
+    m
+    a
+    n
+    e
+    u
+    v
+    e
+    r
+    s
+     
+    t
+    h
+    r
+    o
+    u
+    g
+    h
+     
+    l
+    a
+    s
+    e
+    r
+     
+    s
+    e
+    n
+    s
+    o
+    r
+    s
+     
+    a
+    n
+    d
+     
+    a
+    v
+    o
+    i
+    d
+    s
+     
+    p
+    a
+    t
+    r
+    o
+    l
+    l
+    i
+    n
+    g
+     
+    g
+    u
+    a
+    r
+    d
+    s
+     
+    w
+    i
+    t
+    h
+     
+    a
+     
+    n
+    e
+    w
+    f
+    o
+    u
+    n
+    d
+     
+    a
+    g
+    i
+    l
+    i
+    t
+    y
+     
+    h
+    e
+     
+    n
+    e
+    v
+    e
+    r
+     
+    k
+    n
+    e
+    w
+     
+    h
+    e
+     
+    p
+    o
+    s
+    s
+    e
+    s
+    s
+    e
+    d
+    .
+     
+    H
+    i
+    s
+     
+    h
+    e
+    a
+    r
+    t
+     
+    r
+    a
+    c
+    e
+    s
+     
+    a
+    s
+     
+    h
+    e
+     
+    b
+    a
+    l
+    a
+    n
+    c
+    e
+    s
+     
+    o
+    n
+     
+    t
+    h
+    e
+     
+    e
+    d
+    g
+    e
+     
+    o
+    f
+     
+    d
+    a
+    n
+    g
+    e
+    r
+    ,
+     
+    r
+    e
+    l
+    y
+    i
+    n
+    g
+     
+    o
+    n
+     
+    h
+    i
+    s
+     
+    q
+    u
+    i
+    c
+    k
+     
+    r
+    e
+    f
+    l
+    e
+    x
+    e
+    s
+     
+    a
+    n
+    d
+     
+    h
+    o
+    n
+    e
+    d
+     
+    p
+    h
+    y
+    s
+    i
+    c
+    a
+    l
+     
+    s
+    k
+    i
+    l
+    l
+    s
+     
+    t
+    o
+     
+    o
+    u
+    t
+    m
+    a
+    n
+    e
+    u
+    v
+    e
+    r
+     
+    h
+    i
+    s
+     
+    a
+    d
+    v
+    e
+    r
+    s
+    a
+    r
+    i
+    e
+    s
+    .
+     
+    I
+    n
+     
+    t
+    h
+    i
+    s
+     
+    u
+    n
+    f
+    a
+    m
+    i
+    l
+    i
+    a
+    r
+     
+    w
+    o
+    r
+    l
+    d
+     
+    o
+    f
+     
+    c
+    a
+    t
+     
+    a
+    n
+    d
+     
+    m
+    o
+    u
+    s
+    e
+    ,
+     
+    h
+    e
+     
+    a
+    d
+    a
+    p
+    t
+    s
+     
+    t
+    o
+     
+    s
+    u
+    r
+    v
+    i
+    v
+    e
+    ,
+     
+    p
+    u
+    s
+    h
+    i
+    n
+    g
+     
+    h
+    i
+    m
+    s
+    e
+    l
+    f
+     
+    b
+    e
+    y
+    o
+    n
+    d
+     
+    h
+    i
+    s
+     
+    l
+    i
+    m
+    i
+    t
+    s
+     
+    a
+    n
+    d
+     
+    e
+    m
+    b
+    r
+    a
+    c
+    i
+    n
+    g
+     
+    t
+    h
+    e
+     
+    r
+    e
+    l
+    e
+    n
+    t
+    l
+    e
+    s
+    s
+     
+    p
+    u
+    r
+    s
+    u
+    i
+    t
+     
+    o
+    f
+     
+    t
+    r
+    u
+    t
+    h
+    .
+    #
+    #
+
+Step 5:
+    S
+    t
+    e
+    p
+     
+    5
+    :
+    
+
+    #
+    #
+    s
+    c
+    e
+    n
+    e
+    _
+    1
+    :
+     
+    H
+    e
+    a
+    r
+    t
+     
+    p
+    o
+    u
+    n
+    d
+    i
+    n
+    g
+    ,
+     
+    t
+    h
+    e
+     
+    i
+    n
+    v
+    e
+    s
+    t
+    i
+    g
+    a
+    t
+    o
+    r
+     
+    d
+    i
+    s
+    c
+    o
+    v
+    e
+    r
+    s
+     
+    a
+    n
+     
+    e
+    n
+    c
+    r
+    y
+    p
+    t
+    e
+    d
+     
+    l
+    e
+    t
+    t
+    e
+    r
+     
+    t
+    h
+    a
+    t
+     
+    r
+    e
+    v
+    e
+    a
+    l
+    s
+     
+    t
+    h
+    e
+     
+    f
+    i
+    n
+    a
+    l
+     
+    p
+    i
+    e
+    c
+    e
+     
+    o
+    f
+     
+    t
+    h
+    e
+     
+    p
+    u
+    z
+    z
+    l
+    e
+    .
+     
+    H
+    i
+    s
+     
+    e
+    y
+    e
+    s
+     
+    w
+    i
+    d
+    e
+    n
+     
+    a
+    s
+     
+    t
+    h
+    e
+     
+    c
+    r
+    y
+    p
+    t
+    i
+    c
+     
+    s
+    y
+    m
+    b
+    o
+    l
+    s
+     
+    a
+    l
+    i
+    g
+    n
+    ,
+     
+    u
+    n
+    l
+    o
+    c
+    k
+    i
+    n
+    g
+     
+    t
+    h
+    e
+     
+    t
+    r
+    u
+    t
+    h
+     
+    h
+    i
+    d
+    d
+    e
+    n
+     
+    w
+    i
+    t
+    h
+    i
+    n
+    .
+     
+    E
+    x
+    c
+    i
+    t
+    e
+    m
+    e
+    n
+    t
+     
+    c
+    o
+    u
+    r
+    s
+    e
+    s
+     
+    t
+    h
+    r
+    o
+    u
+    g
+    h
+     
+    h
+    i
+    s
+     
+    v
+    e
+    i
+    n
+    s
+    ,
+     
+    f
+    u
+    e
+    l
+    i
+    n
+    g
+     
+    h
+    i
+    s
+     
+    d
+    e
+    t
+    e
+    r
+    m
+    i
+    n
+    a
+    t
+    i
+    o
+    n
+     
+    a
+    s
+     
+    h
+    e
+     
+    d
+    e
+    c
+    i
+    p
+    h
+    e
+    r
+    s
+     
+    t
+    h
+    e
+     
+    e
+    n
+    i
+    g
+    m
+    a
+     
+    t
+    h
+    a
+    t
+     
+    h
+    a
+    s
+     
+    c
+    o
+    n
+    s
+    u
+    m
+    e
+    d
+     
+    h
+    i
+    m
+     
+    f
+    o
+    r
+     
+    s
+    o
+     
+    l
+    o
+    n
+    g
+    .
+    #
+    #
+    
+
+    
+
+    #
+    #
+    s
+    c
+    e
+    n
+    e
+    _
+    2
+    :
+     
+    I
+    n
+     
+    a
+     
+    h
+    i
+    d
+    d
+    e
+    n
+     
+    c
+    h
+    a
+    m
+    b
+    e
+    r
+    ,
+     
+    t
+    h
+    e
+     
+    i
+    n
+    v
+    e
+    s
+    t
+    i
+    g
+    a
+    t
+    o
+    r
+     
+    u
+    n
+    c
+    o
+    v
+    e
+    r
+    s
+     
+    a
+     
+    h
+    i
+    d
+    d
+    e
+    n
+     
+    d
+    o
+    s
+    s
+    i
+    e
+    r
+     
+    c
+    o
+    n
+    t
+    a
+    i
+    n
+    i
+    n
+    g
+     
+    i
+    r
+    r
+    e
+    f
+    u
+    t
+    a
+    b
+    l
+    e
+     
+    e
+    v
+    i
+    d
+    e
+    n
+    c
+    e
+     
+    o
+    f
+     
+    l
+    o
+    n
+    g
+    -
+    b
+    u
+    r
+    i
+    e
+    d
+     
+    s
+    e
+    c
+    r
+    e
+    t
+    s
+    .
+     
+    H
+    i
+    s
+     
+    f
+    i
+    n
+    g
+    e
+    r
+    s
+     
+    t
+    r
+    e
+    m
+    b
+    l
+    e
+     
+    a
+    s
+     
+    h
+    e
+     
+    f
+    l
+    i
+    p
+    s
+     
+    t
+    h
+    r
+    o
+    u
+    g
+    h
+     
+    t
+    h
+    e
+     
+    p
+    a
+    g
+    e
+    s
+    ,
+     
+    c
+    o
+    n
+    f
+    i
+    r
+    m
+    i
+    n
+    g
+     
+    h
+    i
+    s
+     
+    s
+    u
+    s
+    p
+    i
+    c
+    i
+    o
+    n
+    s
+     
+    a
+    n
+    d
+     
+    s
+    o
+    l
+    i
+    d
+    i
+    f
+    y
+    i
+    n
+    g
+     
+    h
+    i
+    s
+     
+    r
+    e
+    s
+    o
+    l
+    v
+    e
+     
+    t
+    o
+     
+    b
+    r
+    i
+    n
+    g
+     
+    j
+    u
+    s
+    t
+    i
+    c
+    e
+     
+    t
+    o
+     
+    t
+    h
+    e
+     
+    v
+    i
+    c
+    t
+    i
+    m
+    s
+    .
+     
+    A
+     
+    m
+    i
+    x
+    t
+    u
+    r
+    e
+     
+    o
+    f
+     
+    r
+    e
+    l
+    i
+    e
+    f
+     
+    a
+    n
+    d
+     
+    t
+    r
+    i
+    u
+    m
+    p
+    h
+     
+    w
+    a
+    s
+    h
+    e
+    s
+     
+    o
+    v
+    e
+    r
+     
+    h
+    i
+    m
+    ,
+     
+    k
+    n
+    o
+    w
+    i
+    n
+    g
+     
+    t
+    h
+    a
+    t
+     
+    h
+    e
+     
+    h
+    a
+    s
+     
+    f
+    i
+    n
+    a
+    l
+    l
+    y
+     
+    o
+    b
+    t
+    a
+    i
+    n
+    e
+    d
+     
+    w
+    h
+    a
+    t
+     
+    h
+    e
+     
+    s
+    o
+    u
+    g
+    h
+    t
+    .
+    #
+    #
+    
+
+    
+
+    #
+    #
+    s
+    c
+    e
+    n
+    e
+    _
+    3
+    :
+     
+    S
+    t
+    a
+    n
+    d
+    i
+    n
+    g
+     
+    b
+    e
+    f
+    o
+    r
+    e
+     
+    a
+     
+    c
+    a
+    p
+    t
+    i
+    v
+    a
+    t
+    e
+    d
+     
+    a
+    u
+    d
+    i
+    e
+    n
+    c
+    e
+    ,
+     
+    t
+    h
+    e
+     
+    i
+    n
+    v
+    e
+    s
+    t
+    i
+    g
+    a
+    t
+    o
+    r
+     
+    u
+    n
+    v
+    e
+    i
+    l
+    s
+     
+    t
+    h
+    e
+     
+    t
+    r
+    u
+    t
+    h
+     
+    b
+    e
+    h
+    i
+    n
+    d
+     
+    t
+    h
+    e
+     
+    u
+    n
+    s
+    o
+    l
+    v
+    e
+    d
+     
+    m
+    y
+    s
+    t
+    e
+    r
+    i
+    e
+    s
+    .
+     
+    T
+    h
+    e
+     
+    r
+    o
+    o
+    m
+     
+    i
+    s
+     
+    f
+    i
+    l
+    l
+    e
+    d
+     
+    w
+    i
+    t
+    h
+     
+    g
+    a
+    s
+    p
+    s
+     
+    a
+    n
+    d
+     
+    w
+    h
+    i
+    s
+    p
+    e
+    r
+    s
+     
+    a
+    s
+     
+    h
+    e
+     
+    p
+    r
+    e
+    s
+    e
+    n
+    t
+    s
+     
+    h
+    i
+    s
+     
+    f
+    i
+    n
+    d
+    i
+    n
+    g
+    s
+    ,
+     
+    s
+    h
+    e
+    d
+    d
+    i
+    n
+    g
+     
+    l
+    i
+    g
+    h
+    t
+     
+    o
+    n
+     
+    t
+    h
+    e
+     
+    d
+    a
+    r
+    k
+     
+    c
+    o
+    r
+    n
+    e
+    r
+    s
+     
+    o
+    f
+     
+    t
+    h
+    e
+     
+    e
+    n
+    i
+    g
+    m
+    a
+    t
+    i
+    c
+     
+    g
+    e
+    n
+    i
+    u
+    s
+    '
+    s
+     
+    m
+    i
+    n
+    d
+    .
+     
+    A
+     
+    s
+    e
+    n
+    s
+    e
+     
+    o
+    f
+     
+    s
+    a
+    t
+    i
+    s
+    f
+    a
+    c
+    t
+    i
+    o
+    n
+     
+    r
+    a
+    d
+    i
+    a
+    t
+    e
+    s
+     
+    f
+    r
+    o
+    m
+     
+    h
+    i
+    m
+    ,
+     
+    k
+    n
+    o
+    w
+    i
+    n
+    g
+     
+    t
+    h
+    a
+    t
+     
+    h
+    e
+     
+    h
+    a
+    s
+     
+    n
+    o
+    t
+     
+    o
+    n
+    l
+    y
+     
+    s
+    o
+    l
+    v
+    e
+    d
+     
+    t
+    h
+    e
+     
+    p
+    u
+    z
+    z
+    l
+    e
+    s
+     
+    b
+    u
+    t
+     
+    a
+    l
+    s
+    o
+     
+    p
+    r
+    o
+    v
+    i
+    d
+    e
+    d
+     
+    c
+    l
+    o
+    s
+    u
+    r
+    e
+     
+    t
+    o
+     
+    t
+    h
+    o
+    s
+    e
+     
+    a
+    f
+    f
+    e
+    c
+    t
+    e
+    d
+     
+    b
+    y
+     
+    t
+    h
+    e
+     
+    m
+    y
+    s
+    t
+    e
+    r
+    i
+    e
+    s
+    .
+
+Step 6:
+    S
+    t
+    e
+    p
+     
+    6
+    :
+    
+
+    #
+    #
+    s
+    c
+    e
+    n
+    e
+    _
+    1
+    :
+     
+    T
+    h
+    e
+     
+    i
+    n
+    v
+    e
+    s
+    t
+    i
+    g
+    a
+    t
+    o
+    r
+     
+    r
+    e
+    c
+    e
+    i
+    v
+    e
+    s
+     
+    a
+     
+    t
+    h
+    r
+    e
+    a
+    t
+    e
+    n
+    i
+    n
+    g
+     
+    l
+    e
+    t
+    t
+    e
+    r
+    ,
+     
+    w
+    a
+    r
+    n
+    i
+    n
+    g
+     
+    h
+    i
+    m
+     
+    t
+    o
+     
+    s
+    t
+    o
+    p
+     
+    h
+    i
+    s
+     
+    p
+    u
+    r
+    s
+    u
+    i
+    t
+    .
+     
+    H
+    e
+     
+    f
+    e
+    e
+    l
+    s
+     
+    a
+     
+    k
+    n
+    o
+    t
+     
+    i
+    n
+     
+    h
+    i
+    s
+     
+    s
+    t
+    o
+    m
+    a
+    c
+    h
+    ,
+     
+    a
+     
+    m
+    i
+    x
+     
+    o
+    f
+     
+    f
+    e
+    a
+    r
+     
+    a
+    n
+    d
+     
+    d
+    e
+    t
+    e
+    r
+    m
+    i
+    n
+    a
+    t
+    i
+    o
+    n
+    .
+     
+    T
+    h
+    e
+     
+    w
+    o
+    r
+    d
+    s
+     
+    t
+    a
+    u
+    n
+    t
+     
+    h
+    i
+    m
+    ,
+     
+    f
+    u
+    e
+    l
+    i
+    n
+    g
+     
+    h
+    i
+    s
+     
+    d
+    e
+    s
+    i
+    r
+    e
+     
+    t
+    o
+     
+    u
+    n
+    c
+    o
+    v
+    e
+    r
+     
+    t
+    h
+    e
+     
+    t
+    r
+    u
+    t
+    h
+    .
+    #
+    #
+    
+
+    #
+    #
+    s
+    c
+    e
+    n
+    e
+    _
+    2
+    :
+     
+    A
+    s
+     
+    h
+    e
+     
+    d
+    e
+    l
+    v
+    e
+    s
+     
+    d
+    e
+    e
+    p
+    e
+    r
+    ,
+     
+    t
+    h
+    e
+     
+    i
+    n
+    v
+    e
+    s
+    t
+    i
+    g
+    a
+    t
+    o
+    r
+    '
+    s
+     
+    r
+    e
+    l
+    a
+    t
+    i
+    o
+    n
+    s
+    h
+    i
+    p
+    s
+     
+    s
+    u
+    f
+    f
+    e
+    r
+    .
+     
+    H
+    i
+    s
+     
+    l
+    o
+    v
+    e
+    d
+     
+    o
+    n
+    e
+    s
+     
+    f
+    e
+    e
+    l
+     
+    i
+    g
+    n
+    o
+    r
+    e
+    d
+     
+    a
+    n
+    d
+     
+    n
+    e
+    g
+    l
+    e
+    c
+    t
+    e
+    d
+    ,
+     
+    t
+    h
+    e
+     
+    w
+    e
+    i
+    g
+    h
+    t
+     
+    o
+    f
+     
+    h
+    i
+    s
+     
+    o
+    b
+    s
+    e
+    s
+    s
+    i
+    o
+    n
+     
+    b
+    e
+    c
+    o
+    m
+    i
+    n
+    g
+     
+    a
+     
+    h
+    e
+    a
+    v
+    y
+     
+    b
+    u
+    r
+    d
+    e
+    n
+     
+    o
+    n
+     
+    h
+    i
+    s
+     
+    s
+    h
+    o
+    u
+    l
+    d
+    e
+    r
+    s
+    .
+     
+    H
+    e
+     
+    s
+    e
+    e
+    s
+     
+    t
+    h
+    e
+     
+    h
+    u
+    r
+    t
+     
+    i
+    n
+     
+    t
+    h
+    e
+    i
+    r
+     
+    e
+    y
+    e
+    s
+    ,
+     
+    b
+    u
+    t
+     
+    h
+    e
+     
+    c
+    a
+    n
+    '
+    t
+     
+    b
+    r
+    i
+    n
+    g
+     
+    h
+    i
+    m
+    s
+    e
+    l
+    f
+     
+    t
+    o
+     
+    l
+    e
+    t
+     
+    g
+    o
+    .
+    #
+    #
+    
+
+    #
+    #
+    s
+    c
+    e
+    n
+    e
+    _
+    3
+    :
+     
+    T
+    h
+    e
+     
+    i
+    n
+    v
+    e
+    s
+    t
+    i
+    g
+    a
+    t
+    i
+    o
+    n
+     
+    t
+    a
+    k
+    e
+    s
+     
+    a
+     
+    t
+    o
+    l
+    l
+     
+    o
+    n
+     
+    h
+    i
+    s
+     
+    m
+    e
+    n
+    t
+    a
+    l
+     
+    h
+    e
+    a
+    l
+    t
+    h
+    .
+     
+    D
+    a
+    r
+    k
+     
+    t
+    h
+    o
+    u
+    g
+    h
+    t
+    s
+     
+    h
+    a
+    u
+    n
+    t
+     
+    h
+    i
+    s
+     
+    d
+    r
+    e
+    a
+    m
+    s
+    ,
+     
+    l
+    e
+    a
+    v
+    i
+    n
+    g
+     
+    h
+    i
+    m
+     
+    s
+    l
+    e
+    e
+    p
+    -
+    d
+    e
+    p
+    r
+    i
+    v
+    e
+    d
+     
+    a
+    n
+    d
+     
+    o
+    n
+     
+    e
+    d
+    g
+    e
+    .
+     
+    H
+    e
+     
+    b
+    a
+    t
+    t
+    l
+    e
+    s
+     
+    a
+    n
+    x
+    i
+    e
+    t
+    y
+    ,
+     
+    p
+    a
+    r
+    a
+    n
+    o
+    i
+    a
+    ,
+     
+    a
+    n
+    d
+     
+    a
+     
+    c
+    r
+    e
+    e
+    p
+    i
+    n
+    g
+     
+    s
+    e
+    n
+    s
+    e
+     
+    o
+    f
+     
+    i
+    s
+    o
+    l
+    a
+    t
+    i
+    o
+    n
+    .
+     
+    T
+    h
+    e
+     
+    j
+    o
+    u
+    r
+    n
+    e
+    y
+     
+    t
+    o
+    w
+    a
+    r
+    d
+    s
+     
+    t
+    r
+    u
+    t
+    h
+     
+    h
+    a
+    s
+     
+    b
+    e
+    c
+    o
+    m
+    e
+     
+    a
+    n
+     
+    a
+    r
+    d
+    u
+    o
+    u
+    s
+     
+    a
+    n
+    d
+     
+    l
+    o
+    n
+    e
+    l
+    y
+     
+    o
+    n
+    e
+    .
+    #
+    #
+    
+
+    #
+    #
+    s
+    c
+    e
+    n
+    e
+    _
+    4
+    :
+     
+    T
+    h
+    e
+     
+    c
+    o
+    n
+    s
+    e
+    q
+    u
+    e
+    n
+    c
+    e
+    s
+     
+    e
+    s
+    c
+    a
+    l
+    a
+    t
+    e
+     
+    w
+    h
+    e
+    n
+     
+    t
+    h
+    e
+     
+    i
+    n
+    v
+    e
+    s
+    t
+    i
+    g
+    a
+    t
+    o
+    r
+     
+    b
+    e
+    c
+    o
+    m
+    e
+    s
+     
+    e
+    n
+    t
+    a
+    n
+    g
+    l
+    e
+    d
+     
+    i
+    n
+     
+    a
+     
+    w
+    e
+    b
+     
+    o
+    f
+     
+    d
+    a
+    n
+    g
+    e
+    r
+    .
+     
+    H
+    e
+     
+    f
+    i
+    n
+    d
+    s
+     
+    h
+    i
+    m
+    s
+    e
+    l
+    f
+     
+    o
+    n
+     
+    t
+    h
+    e
+     
+    r
+    u
+    n
+    ,
+     
+    c
+    h
+    a
+    s
+    e
+    d
+     
+    b
+    y
+     
+    m
+    y
+    s
+    t
+    e
+    r
+    i
+    o
+    u
+    s
+     
+    f
+    i
+    g
+    u
+    r
+    e
+    s
+     
+    w
+    h
+    o
+     
+    s
+    e
+    e
+    k
+     
+    t
+    o
+     
+    s
+    i
+    l
+    e
+    n
+    c
+    e
+     
+    h
+    i
+    m
+    .
+     
+    F
+    e
+    a
+    r
+     
+    a
+    n
+    d
+     
+    a
+    d
+    r
+    e
+    n
+    a
+    l
+    i
+    n
+    e
+     
+    c
+    o
+    u
+    r
+    s
+    e
+     
+    t
+    h
+    r
+    o
+    u
+    g
+    h
+     
+    h
+    i
+    s
+     
+    v
+    e
+    i
+    n
+    s
+     
+    a
+    s
+     
+    h
+    e
+     
+    f
+    i
+    g
+    h
+    t
+    s
+     
+    f
+    o
+    r
+     
+    h
+    i
+    s
+     
+    l
+    i
+    f
+    e
+    ,
+     
+    r
+    e
+    a
+    l
+    i
+    z
+    i
+    n
+    g
+     
+    t
+    h
+    a
+    t
+     
+    t
+    h
+    e
+     
+    s
+    e
+    c
+    r
+    e
+    t
+    s
+     
+    h
+    e
+    '
+    s
+     
+    u
+    n
+    c
+    o
+    v
+    e
+    r
+    e
+    d
+     
+    a
+    r
+    e
+     
+    m
+    o
+    r
+    e
+     
+    d
+    a
+    n
+    g
+    e
+    r
+    o
+    u
+    s
+     
+    t
+    h
+    a
+    n
+     
+    h
+    e
+     
+    e
+    v
+    e
+    r
+     
+    i
+    m
+    a
+    g
+    i
+    n
+    e
+    d
+    .
+    #
+    #
+    
+
+    #
+    #
+    s
+    c
+    e
+    n
+    e
+    _
+    5
+    :
+     
+    D
+    e
+    s
+    p
+    i
+    t
+    e
+     
+    t
+    h
+    e
+     
+    r
+    i
+    s
+    k
+    s
+    ,
+     
+    t
+    h
+    e
+     
+    i
+    n
+    v
+    e
+    s
+    t
+    i
+    g
+    a
+    t
+    o
+    r
+     
+    r
+    e
+    f
+    u
+    s
+    e
+    s
+     
+    t
+    o
+     
+    b
+    a
+    c
+    k
+     
+    d
+    o
+    w
+    n
+    .
+     
+    H
+    e
+     
+    c
+    o
+    n
+    f
+    r
+    o
+    n
+    t
+    s
+     
+    h
+    i
+    s
+     
+    p
+    u
+    r
+    s
+    u
+    e
+    r
+    s
+     
+    h
+    e
+    a
+    d
+    -
+    o
+    n
+    ,
+     
+    s
+    t
+    a
+    n
+    d
+    i
+    n
+    g
+     
+    h
+    i
+    s
+     
+    g
+    r
+    o
+    u
+    n
+    d
+     
+    w
+    i
+    t
+    h
+     
+    u
+    n
+    w
+    a
+    v
+    e
+    r
+    i
+    n
+    g
+     
+    d
+    e
+    t
+    e
+    r
+    m
+    i
+    n
+    a
+    t
+    i
+    o
+    n
+    .
+     
+    I
+    n
+     
+    t
+    h
+    e
+     
+    f
+    a
+    c
+    e
+     
+    o
+    f
+     
+    i
+    m
+    m
+    i
+    n
+    e
+    n
+    t
+     
+    d
+    a
+    n
+    g
+    e
+    r
+    ,
+     
+    h
+    e
+     
+    d
+    i
+    s
+    c
+    o
+    v
+    e
+    r
+    s
+     
+    a
+     
+    n
+    e
+    w
+    f
+    o
+    u
+    n
+    d
+     
+    s
+    t
+    r
+    e
+    n
+    g
+    t
+    h
+     
+    w
+    i
+    t
+    h
+    i
+    n
+     
+    h
+    i
+    m
+    s
+    e
+    l
+    f
+    ,
+     
+    f
+    u
+    e
+    l
+    e
+    d
+     
+    b
+    y
+     
+    t
+    h
+    e
+     
+    b
+    e
+    l
+    i
+    e
+    f
+     
+    t
+    h
+    a
+    t
+     
+    t
+    h
+    e
+     
+    t
+    r
+    u
+    t
+    h
+     
+    m
+    u
+    s
+    t
+     
+    b
+    e
+     
+    e
+    x
+    p
+    o
+    s
+    e
+    d
+    ,
+     
+    n
+    o
+     
+    m
+    a
+    t
+    t
+    e
+    r
+     
+    t
+    h
+    e
+     
+    c
+    o
+    s
+    t
+    .
+    #
+    #
+
+Step 7:
+    S
+    t
+    e
+    p
+     
+    7
+    :
+    
+
+    #
+    #
+    s
+    c
+    e
+    n
+    e
+    _
+    1
+    :
+     
+    T
+    h
+    e
+     
+    i
+    n
+    v
+    e
+    s
+    t
+    i
+    g
+    a
+    t
+    o
+    r
+     
+    s
+    i
+    t
+    s
+     
+    i
+    n
+     
+    h
+    i
+    s
+     
+    c
+    l
+    u
+    t
+    t
+    e
+    r
+    e
+    d
+     
+    o
+    f
+    f
+    i
+    c
+    e
+    ,
+     
+    s
+    u
+    r
+    r
+    o
+    u
+    n
+    d
+    e
+    d
+     
+    b
+    y
+     
+    s
+    h
+    e
+    l
+    v
+    e
+    s
+     
+    o
+    f
+     
+    d
+    u
+    s
+    t
+    y
+     
+    c
+    a
+    s
+    e
+     
+    f
+    i
+    l
+    e
+    s
+     
+    a
+    n
+    d
+     
+    c
+    r
+    y
+    p
+    t
+    i
+    c
+     
+    p
+    u
+    z
+    z
+    l
+    e
+    s
+    .
+     
+    H
+    e
+     
+    t
+    a
+    k
+    e
+    s
+     
+    a
+     
+    m
+    o
+    m
+    e
+    n
+    t
+     
+    t
+    o
+     
+    b
+    r
+    e
+    a
+    t
+    h
+    e
+     
+    i
+    n
+     
+    t
+    h
+    e
+     
+    f
+    a
+    m
+    i
+    l
+    i
+    a
+    r
+     
+    s
+    c
+    e
+    n
+    t
+     
+    o
+    f
+     
+    o
+    l
+    d
+     
+    b
+    o
+    o
+    k
+    s
+     
+    a
+    n
+    d
+     
+    t
+    a
+    p
+    s
+     
+    h
+    i
+    s
+     
+    p
+    e
+    n
+     
+    o
+    n
+     
+    t
+    h
+    e
+     
+    d
+    e
+    s
+    k
+     
+    a
+    b
+    s
+    e
+    n
+    t
+    m
+    i
+    n
+    d
+    e
+    d
+    l
+    y
+    .
+     
+    M
+    e
+    m
+    o
+    r
+    i
+    e
+    s
+     
+    o
+    f
+     
+    p
+    a
+    s
+    t
+     
+    t
+    r
+    i
+    u
+    m
+    p
+    h
+    s
+     
+    f
+    i
+    l
+    l
+     
+    h
+    i
+    m
+     
+    w
+    i
+    t
+    h
+     
+    a
+     
+    s
+    e
+    n
+    s
+    e
+     
+    o
+    f
+     
+    c
+    o
+    m
+    f
+    o
+    r
+    t
+    ,
+     
+    a
+    n
+    d
+     
+    h
+    e
+     
+    f
+    e
+    e
+    l
+    s
+     
+    a
+     
+    g
+    l
+    i
+    m
+    m
+    e
+    r
+     
+    o
+    f
+     
+    c
+    o
+    n
+    t
+    e
+    n
+    t
+    m
+    e
+    n
+    t
+     
+    i
+    n
+     
+    t
+    h
+    i
+    s
+     
+    f
+    a
+    m
+    i
+    l
+    i
+    a
+    r
+     
+    s
+    p
+    a
+    c
+    e
+    .
+    #
+    #
+    
+
+    
+
+    #
+    #
+    s
+    c
+    e
+    n
+    e
+    _
+    2
+    :
+     
+    T
+    h
+    e
+     
+    i
+    n
+    v
+    e
+    s
+    t
+    i
+    g
+    a
+    t
+    o
+    r
+    ,
+     
+    s
+    t
+    i
+    l
+    l
+     
+    l
+    o
+    s
+    t
+     
+    i
+    n
+     
+    h
+    i
+    s
+     
+    t
+    h
+    o
+    u
+    g
+    h
+    t
+    s
+    ,
+     
+    g
+    a
+    z
+    e
+    s
+     
+    o
+    u
+    t
+     
+    t
+    h
+    e
+     
+    w
+    i
+    n
+    d
+    o
+    w
+     
+    a
+    s
+     
+    r
+    a
+    i
+    n
+     
+    g
+    e
+    n
+    t
+    l
+    y
+     
+    p
+    a
+    t
+    t
+    e
+    r
+    s
+     
+    a
+    g
+    a
+    i
+    n
+    s
+    t
+     
+    t
+    h
+    e
+     
+    g
+    l
+    a
+    s
+    s
+    .
+     
+    H
+    e
+     
+    h
+    e
+    a
+    r
+    s
+     
+    t
+    h
+    e
+     
+    s
+    o
+    f
+    t
+     
+    m
+    u
+    r
+    m
+    u
+    r
+     
+    o
+    f
+     
+    d
+    r
+    o
+    p
+    l
+    e
+    t
+    s
+     
+    a
+    n
+    d
+     
+    t
+    h
+    e
+     
+    d
+    i
+    s
+    t
+    a
+    n
+    t
+     
+    r
+    u
+    m
+    b
+    l
+    e
+     
+    o
+    f
+     
+    t
+    h
+    u
+    n
+    d
+    e
+    r
+    ,
+     
+    a
+    d
+    d
+    i
+    n
+    g
+     
+    a
+    n
+     
+    e
+    l
+    e
+    c
+    t
+    r
+    i
+    c
+     
+    a
+    n
+    t
+    i
+    c
+    i
+    p
+    a
+    t
+    i
+    o
+    n
+     
+    t
+    o
+     
+    t
+    h
+    e
+     
+    a
+    i
+    r
+    .
+     
+    W
+    i
+    t
+    h
+     
+    a
+     
+    s
+    l
+    i
+    g
+    h
+    t
+     
+    s
+    m
+    i
+    l
+    e
+    ,
+     
+    h
+    e
+     
+    r
+    e
+    a
+    l
+    i
+    z
+    e
+    s
+     
+    t
+    h
+    a
+    t
+     
+    t
+    h
+    e
+     
+    a
+    n
+    s
+    w
+    e
+    r
+    s
+     
+    h
+    e
+     
+    s
+    e
+    e
+    k
+    s
+     
+    l
+    i
+    e
+     
+    w
+    i
+    t
+    h
+    i
+    n
+     
+    t
+    h
+    e
+    s
+    e
+     
+    m
+    y
+    s
+    t
+    e
+    r
+    i
+    o
+    u
+    s
+     
+    l
+    e
+    t
+    t
+    e
+    r
+    s
+    .
+     
+    A
+     
+    f
+    l
+    i
+    c
+    k
+    e
+    r
+     
+    o
+    f
+     
+    o
+    b
+    s
+    e
+    s
+    s
+    i
+    o
+    n
+     
+    d
+    a
+    n
+    c
+    e
+    s
+     
+    i
+    n
+     
+    h
+    i
+    s
+     
+    e
+    y
+    e
+    s
+     
+    a
+    s
+     
+    h
+    e
+     
+    i
+    m
+    m
+    e
+    r
+    s
+    e
+    s
+     
+    h
+    i
+    m
+    s
+    e
+    l
+    f
+     
+    o
+    n
+    c
+    e
+     
+    a
+    g
+    a
+    i
+    n
+     
+    i
+    n
+     
+    t
+    h
+    e
+     
+    e
+    n
+    i
+    g
+    m
+    a
+    .
+    #
+    #
+
+Step 8:
+    S
+    t
+    e
+    p
+     
+    8
+    :
+    
+
+    #
+    #
+    s
+    c
+    e
+    n
+    e
+    _
+    1
+    :
+     
+    T
+    h
+    e
+     
+    i
+    n
+    v
+    e
+    s
+    t
+    i
+    g
+    a
+    t
+    o
+    r
+    ,
+     
+    w
+    i
+    t
+    h
+     
+    w
+    e
+    a
+    r
+    y
+     
+    e
+    y
+    e
+    s
+    ,
+     
+    o
+    r
+    g
+    a
+    n
+    i
+    z
+    e
+    s
+     
+    h
+    i
+    s
+     
+    c
+    l
+    u
+    t
+    t
+    e
+    r
+    e
+    d
+     
+    o
+    f
+    f
+    i
+    c
+    e
+    .
+     
+    H
+    e
+     
+    g
+    a
+    z
+    e
+    s
+     
+    a
+    t
+     
+    t
+    h
+    e
+     
+    s
+    h
+    e
+    l
+    v
+    e
+    s
+     
+    o
+    f
+     
+    c
+    a
+    s
+    e
+     
+    f
+    i
+    l
+    e
+    s
+    ,
+     
+    n
+    o
+    w
+     
+    f
+    i
+    l
+    l
+    e
+    d
+     
+    w
+    i
+    t
+    h
+     
+    s
+    o
+    l
+    v
+    e
+    d
+     
+    m
+    y
+    s
+    t
+    e
+    r
+    i
+    e
+    s
+    .
+     
+    A
+     
+    f
+    a
+    i
+    n
+    t
+     
+    s
+    m
+    i
+    l
+    e
+     
+    t
+    u
+    g
+    s
+     
+    a
+    t
+     
+    t
+    h
+    e
+     
+    c
+    o
+    r
+    n
+    e
+    r
+    s
+     
+    o
+    f
+     
+    h
+    i
+    s
+     
+    l
+    i
+    p
+    s
+    ,
+     
+    a
+     
+    t
+    e
+    s
+    t
+    a
+    m
+    e
+    n
+    t
+     
+    t
+    o
+     
+    h
+    i
+    s
+     
+    g
+    r
+    o
+    w
+    t
+    h
+     
+    a
+    n
+    d
+     
+    e
+    v
+    o
+    l
+    u
+    t
+    i
+    o
+    n
+     
+    a
+    s
+     
+    a
+     
+    d
+    e
+    t
+    e
+    c
+    t
+    i
+    v
+    e
+    .
+     
+    T
+    h
+    e
+     
+    s
+    c
+    e
+    n
+    t
+     
+    o
+    f
+     
+    a
+    g
+    e
+    d
+     
+    b
+    o
+    o
+    k
+    s
+     
+    a
+    n
+    d
+     
+    t
+    h
+    e
+     
+    t
+    a
+    p
+     
+    o
+    f
+     
+    h
+    i
+    s
+     
+    p
+    e
+    n
+     
+    b
+    r
+    i
+    n
+    g
+     
+    a
+     
+    s
+    e
+    n
+    s
+    e
+     
+    o
+    f
+     
+    f
+    a
+    m
+    i
+    l
+    i
+    a
+    r
+    i
+    t
+    y
+     
+    a
+    n
+    d
+     
+    s
+    a
+    t
+    i
+    s
+    f
+    a
+    c
+    t
+    i
+    o
+    n
+    .
+    #
+    #
+    
+
+    
+
+    #
+    #
+    s
+    c
+    e
+    n
+    e
+    _
+    2
+    :
+     
+    I
+    n
+     
+    a
+     
+    q
+    u
+    i
+    e
+    t
+     
+    p
+    a
+    r
+    k
+    ,
+     
+    t
+    h
+    e
+     
+    i
+    n
+    v
+    e
+    s
+    t
+    i
+    g
+    a
+    t
+    o
+    r
+     
+    s
+    i
+    t
+    s
+     
+    o
+    n
+     
+    a
+     
+    b
+    e
+    n
+    c
+    h
+    ,
+     
+    l
+    i
+    s
+    t
+    e
+    n
+    i
+    n
+    g
+     
+    t
+    o
+     
+    t
+    h
+    e
+     
+    t
+    r
+    a
+    n
+    q
+    u
+    i
+    l
+     
+    s
+    o
+    u
+    n
+    d
+    s
+     
+    o
+    f
+     
+    n
+    a
+    t
+    u
+    r
+    e
+    .
+     
+    T
+    h
+    e
+     
+    w
+    a
+    r
+    m
+    t
+    h
+     
+    o
+    f
+     
+    t
+    h
+    e
+     
+    s
+    u
+    n
+     
+    o
+    n
+     
+    h
+    i
+    s
+     
+    f
+    a
+    c
+    e
+     
+    b
+    r
+    i
+    n
+    g
+    s
+     
+    a
+     
+    s
+    e
+    n
+    s
+    e
+     
+    o
+    f
+     
+    c
+    a
+    l
+    m
+    .
+     
+    H
+    e
+     
+    r
+    e
+    f
+    l
+    e
+    c
+    t
+    s
+     
+    o
+    n
+     
+    h
+    i
+    s
+     
+    j
+    o
+    u
+    r
+    n
+    e
+    y
+    ,
+     
+    r
+    e
+    a
+    l
+    i
+    z
+    i
+    n
+    g
+     
+    t
+    h
+    a
+    t
+     
+    t
+    h
+    e
+     
+    p
+    u
+    r
+    s
+    u
+    i
+    t
+     
+    o
+    f
+     
+    t
+    h
+    e
+     
+    g
+    e
+    n
+    i
+    u
+    s
+    '
+    s
+     
+    e
+    n
+    i
+    g
+    m
+    a
+     
+    h
+    a
+    s
+     
+    t
+    r
+    a
+    n
+    s
+    f
+    o
+    r
+    m
+    e
+    d
+     
+    h
+    i
+    m
+    .
+     
+    T
+    h
+    e
+     
+    w
+    e
+    i
+    g
+    h
+    t
+     
+    o
+    f
+     
+    o
+    b
+    s
+    e
+    s
+    s
+    i
+    o
+    n
+     
+    h
+    a
+    s
+     
+    l
+    i
+    f
+    t
+    e
+    d
+    ,
+     
+    r
+    e
+    p
+    l
+    a
+    c
+    e
+    d
+     
+    b
+    y
+     
+    a
+     
+    n
+    e
+    w
+    f
+    o
+    u
+    n
+    d
+     
+    s
+    e
+    n
+    s
+    e
+     
+    o
+    f
+     
+    p
+    e
+    a
+    c
+    e
+     
+    a
+    n
+    d
+     
+    f
+    u
+    l
+    f
+    i
+    l
+    l
+    m
+    e
+    n
+    t
+    .
+    #
+    #
+    
+
+    
+
+    #
+    #
+    s
+    c
+    e
+    n
+    e
+    _
+    3
+    :
+     
+    A
+    t
+     
+    a
+     
+    c
+    o
+    z
+    y
+     
+    c
+    a
+    f
+    é
+    ,
+     
+    t
+    h
+    e
+     
+    i
+    n
+    v
+    e
+    s
+    t
+    i
+    g
+    a
+    t
+    o
+    r
+     
+    e
+    n
+    g
+    a
+    g
+    e
+    s
+     
+    i
+    n
+     
+    s
+    p
+    i
+    r
+    i
+    t
+    e
+    d
+     
+    c
+    o
+    n
+    v
+    e
+    r
+    s
+    a
+    t
+    i
+    o
+    n
+     
+    w
+    i
+    t
+    h
+     
+    f
+    r
+    i
+    e
+    n
+    d
+    s
+     
+    a
+    n
+    d
+     
+    l
+    o
+    v
+    e
+    d
+     
+    o
+    n
+    e
+    s
+    .
+     
+    L
+    a
+    u
+    g
+    h
+    t
+    e
+    r
+     
+    f
+    i
+    l
+    l
+    s
+     
+    t
+    h
+    e
+     
+    a
+    i
+    r
+    ,
+     
+    i
+    n
+    t
+    e
+    r
+    t
+    w
+    i
+    n
+    i
+    n
+    g
+     
+    w
+    i
+    t
+    h
+     
+    t
+    h
+    e
+     
+    a
+    r
+    o
+    m
+    a
+     
+    o
+    f
+     
+    f
+    r
+    e
+    s
+    h
+    l
+    y
+     
+    b
+    r
+    e
+    w
+    e
+    d
+     
+    c
+    o
+    f
+    f
+    e
+    e
+    .
+     
+    T
+    h
+    e
+     
+    i
+    n
+    v
+    e
+    s
+    t
+    i
+    g
+    a
+    t
+    o
+    r
+    '
+    s
+     
+    h
+    e
+    a
+    r
+    t
+     
+    s
+    w
+    e
+    l
+    l
+    s
+     
+    w
+    i
+    t
+    h
+     
+    g
+    r
+    a
+    t
+    i
+    t
+    u
+    d
+    e
+     
+    f
+    o
+    r
+     
+    t
+    h
+    e
+    i
+    r
+     
+    u
+    n
+    w
+    a
+    v
+    e
+    r
+    i
+    n
+    g
+     
+    s
+    u
+    p
+    p
+    o
+    r
+    t
+    .
+     
+    H
+    e
+     
+    h
+    a
+    s
+     
+    l
+    e
+    a
+    r
+    n
+    e
+    d
+     
+    t
+    h
+    e
+     
+    i
+    m
+    p
+    o
+    r
+    t
+    a
+    n
+    c
+    e
+     
+    o
+    f
+     
+    b
+    a
+    l
+    a
+    n
+    c
+    e
+     
+    a
+    n
+    d
+     
+    c
+    h
+    e
+    r
+    i
+    s
+    h
+    i
+    n
+    g
+     
+    t
+    h
+    o
+    s
+    e
+     
+    w
+    h
+    o
+     
+    e
+    n
+    r
+    i
+    c
+    h
+     
+    h
+    i
+    s
+     
+    l
+    i
+    f
+    e
+    .
+    #
+    #
+    
+
+    
+
+    #
+    #
+    s
+    c
+    e
+    n
+    e
+    _
+    4
+    :
+     
+    I
+    n
+     
+    a
+     
+    s
+    e
+    r
+    e
+    n
+    e
+     
+    l
+    i
+    b
+    r
+    a
+    r
+    y
+    ,
+     
+    t
+    h
+    e
+     
+    i
+    n
+    v
+    e
+    s
+    t
+    i
+    g
+    a
+    t
+    o
+    r
+     
+    p
+    o
+    u
+    r
+    s
+     
+    o
+    v
+    e
+    r
+     
+    b
+    o
+    o
+    k
+    s
+    ,
+     
+    n
+    o
+    t
+     
+    s
+    e
+    e
+    k
+    i
+    n
+    g
+     
+    a
+    n
+    s
+    w
+    e
+    r
+    s
+     
+    t
+    o
+     
+    m
+    y
+    s
+    t
+    e
+    r
+    i
+    e
+    s
+    ,
+     
+    b
+    u
+    t
+     
+    i
+    n
+    d
+    u
+    l
+    g
+    i
+    n
+    g
+     
+    i
+    n
+     
+    t
+    h
+    e
+     
+    p
+    l
+    e
+    a
+    s
+    u
+    r
+    e
+     
+    o
+    f
+     
+    r
+    e
+    a
+    d
+    i
+    n
+    g
+    .
+     
+    T
+    h
+    e
+     
+    w
+    h
+    i
+    s
+    p
+    e
+    r
+    e
+    d
+     
+    r
+    u
+    s
+    t
+    l
+    e
+     
+    o
+    f
+     
+    p
+    a
+    g
+    e
+    s
+     
+    a
+    n
+    d
+     
+    t
+    h
+    e
+     
+    s
+    c
+    e
+    n
+    t
+     
+    o
+    f
+     
+    i
+    n
+    k
+     
+    s
+    e
+    e
+    p
+     
+    i
+    n
+    t
+    o
+     
+    h
+    i
+    s
+     
+    b
+    e
+    i
+    n
+    g
+    ,
+     
+    i
+    g
+    n
+    i
+    t
+    i
+    n
+    g
+     
+    a
+     
+    l
+    o
+    v
+    e
+     
+    f
+    o
+    r
+     
+    k
+    n
+    o
+    w
+    l
+    e
+    d
+    g
+    e
+     
+    b
+    e
+    y
+    o
+    n
+    d
+     
+    t
+    h
+    e
+     
+    p
+    u
+    r
+    s
+    u
+    i
+    t
+     
+    o
+    f
+     
+    u
+    n
+    s
+    o
+    l
+    v
+    e
+    d
+     
+    c
+    a
+    s
+    e
+    s
+    .
+     
+    H
+    e
+     
+    h
+    a
+    s
+     
+    d
+    i
+    s
+    c
+    o
+    v
+    e
+    r
+    e
+    d
+     
+    t
+    h
+    e
+     
+    j
+    o
+    y
+     
+    o
+    f
+     
+    l
+    e
+    a
+    r
+    n
+    i
+    n
+    g
+     
+    f
+    o
+    r
+     
+    i
+    t
+    s
+     
+    o
+    w
+    n
+     
+    s
+    a
+    k
+    e
+    .
+    #
+    #
+    
+
+    
+
+    #
+    #
+    s
+    c
+    e
+    n
+    e
+    _
+    5
+    :
+     
+    S
+    t
+    a
+    n
+    d
+    i
+    n
+    g
+     
+    a
+    t
+    o
+    p
+     
+    a
+     
+    h
+    i
+    l
+    l
+    ,
+     
+    t
+    h
+    e
+     
+    i
+    n
+    v
+    e
+    s
+    t
+    i
+    g
+    a
+    t
+    o
+    r
+     
+    t
+    a
+    k
+    e
+    s
+     
+    i
+    n
+     
+    t
+    h
+    e
+     
+    b
+    r
+    e
+    a
+    t
+    h
+    t
+    a
+    k
+    i
+    n
+    g
+     
+    v
+    i
+    e
+    w
+     
+    o
+    f
+     
+    t
+    h
+    e
+     
+    c
+    i
+    t
+    y
+     
+    s
+    k
+    y
+    l
+    i
+    n
+    e
+    .
+     
+    T
+    h
+    e
+     
+    c
+    o
+    o
+    l
+     
+    b
+    r
+    e
+    e
+    z
+    e
+     
+    i
+    n
+    v
+    i
+    g
+    o
+    r
+    a
+    t
+    e
+    s
+     
+    h
+    i
+    s
+     
+    s
+    e
+    n
+    s
+    e
+    s
+    ,
+     
+    r
+    e
+    m
+    i
+    n
+    d
+    i
+    n
+    g
+     
+    h
+    i
+    m
+     
+    o
+    f
+     
+    t
+    h
+    e
+     
+    v
+    a
+    s
+    t
+    n
+    e
+    s
+    s
+     
+    o
+    f
+     
+    t
+    h
+    e
+     
+    w
+    o
+    r
+    l
+    d
+    .
+     
+    A
+    s
+     
+    h
+    e
+     
+    m
+    a
+    r
+    v
+    e
+    l
+    s
+     
+    a
+    t
+     
+    t
+    h
+    e
+     
+    t
+    a
+    p
+    e
+    s
+    t
+    r
+    y
+     
+    o
+    f
+     
+    l
+    i
+    g
+    h
+    t
+    s
+    ,
+     
+    h
+    e
+     
+    r
+    e
+    a
+    l
+    i
+    z
+    e
+    s
+     
+    t
+    h
+    a
+    t
+     
+    h
+    i
+    s
+     
+    j
+    o
+    u
+    r
+    n
+    e
+    y
+     
+    h
+    a
+    s
+     
+    e
+    x
+    p
+    a
+    n
+    d
+    e
+    d
+     
+    h
+    i
+    s
+     
+    p
+    e
+    r
+    s
+    p
+    e
+    c
+    t
+    i
+    v
+    e
+    ,
+     
+    a
+    l
+    l
+    o
+    w
+    i
+    n
+    g
+     
+    h
+    i
+    m
+     
+    t
+    o
+     
+    s
+    e
+    e
+     
+    b
+    e
+    y
+    o
+    n
+    d
+     
+    t
+    h
+    e
+     
+    c
+    o
+    n
+    f
+    i
+    n
+    e
+    s
+     
+    o
+    f
+     
+    e
+    n
+    i
+    g
+    m
+    a
+    s
+     
+    a
+    n
+    d
+     
+    i
+    n
+    t
+    o
+     
+    t
+    h
+    e
+     
+    b
+    e
+    a
+    u
+    t
+    y
+     
+    o
+    f
+     
+    l
+    i
+    f
+    e
+     
+    i
+    t
+    s
+    e
+    l
+    f
+    .
+    #
+    #
+

@@ -1,0 +1,4 @@
+Instruction: Wander through an alien world, learning about unique cultures and battling interplanetary politics;
+    Genre: Space Opera
+    Title: Celestial Veins
+    Description: Stranded on a distant alien planet, a crew of earthbound explorers must navigate a complex web of alien cultures, politics, and wars to find a way home.
